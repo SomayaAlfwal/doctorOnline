@@ -1,0 +1,34 @@
+*
+{
+    transition: all 1s;
+}
+
+
+.sympathis
+{
+    font-family: 'El Messiri', sans-serif;
+    overflow:auto;
+}
+.layer
+{
+    background-color:rgba(0,0,0,0.5);
+}
+.container-fluid
+{
+     background-image: url(../images/pexels-photo-1289902.jpeg);
+     background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+ .sympathis h1,h2,label
+{
+    color: #fff;
+    font-family: inherit;
+    font-size: 40px;
+    
+}
+#yourElement {
+  animation-duration: 1s;
+  animation-delay: 0.5s;
+  
+}
